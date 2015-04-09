@@ -1,16 +1,16 @@
 #Investigating Climate Data as it relates to Virginia
 
-PCP - Precipitation Index
-TAVG - Temperature Index
-TMIN - Maximum Temperature Index
-TMAX - Minimum Temperature Index
-PDSI - Palmer Drought Severity Index
-PHDI - Palmer Hydrological Drought Index
-ZNDX - Palmer Z-Index
-PMDI - Modified Palmer Drought Severity Index
-CDD - Cooling Degree Days
-HDD - Heating Degree Days
-SPnn - Standard Precipitation Index
+- PCP - Precipitation Index
+- TAVG - Temperature Index
+- TMIN - Maximum Temperature Index
+- TMAX - Minimum Temperature Index
+- PDSI - Palmer Drought Severity Index
+- PHDI - Palmer Hydrological Drought Index
+- ZNDX - Palmer Z-Index
+- PMDI - Modified Palmer Drought Severity Index
+- CDD - Cooling Degree Days
+- HDD - Heating Degree Days
+- SPnn - Standard Precipitation Index
 
 
 Data Sources:
