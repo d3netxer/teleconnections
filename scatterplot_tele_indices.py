@@ -5,7 +5,7 @@ import dateutil
 import matplotlib.mlab as mlab
 import matplotlib
 
-r = mlab.csv2rec('tele_index_W_temp_and_precip_csv.csv')
+r = mlab.csv2rec('tele_index_W_temp_and_precip.csv')
 
 fig = plt.figure(figsize=(6,6))
 ax = fig.add_subplot(111)
